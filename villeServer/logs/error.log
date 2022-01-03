@@ -152,3 +152,5 @@ Tue, 23 Nov 2021 09:18:48 GMT | ERROR  | HTTP 404: ask for:  http://localhost:30
 Tue, 23 Nov 2021 09:18:48 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/api/v1/categories
 Tue, 23 Nov 2021 09:18:48 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/api/v1/categories
 Tue, 23 Nov 2021 09:18:48 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/api/v1/categories
+Mon, 03 Jan 2022 09:38:02 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/villes/
+Mon, 03 Jan 2022 09:38:24 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/ville/
